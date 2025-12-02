@@ -5,10 +5,8 @@
 
 <hr>
 
-<!-- SECCIÓN SOBRE MÍ + GIF EN FLEX -->
 <div style="display: flex; align-items: flex-start; justify-content: space-between;">
 
-  <!-- Texto -->
   <div style="width: 55%;">
     <h2>👨‍💻 Sobre mí</h2>
     <p>
@@ -16,12 +14,10 @@
       Activo, organizado y con excelente capacidad para trabajar en equipo y resolver problemas.<br>
       Cada día busco mejorar mis habilidades y construir proyectos reales que aporten valor.
     </p>
-
     📩 <b>Correo:</b> ialfasa2020@gmail.com <br>
-    📍 Guatemala  
+    📍 Guatemala
   </div>
 
-  <!-- GIF -->
   <div style="width: 40%; text-align: center;">
     <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="300">
   </div>
@@ -30,7 +26,6 @@
 
 <hr>
 
-<!-- TODO LO QUE SIGUE CENTRADO -->
 <div align="center">
 
 ## ⭐ Mis gustos
