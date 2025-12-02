@@ -3,9 +3,15 @@
 
   <div style="width: 55%;">
 
-<h1>✨ Hola, soy <b>Ian Alfaro </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> ✨</h1>
+<h1 align="center">✨ Hola, soy <b>Ian Alfaro </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> ✨</h1>
 
-<h3>Desarrollador Web en formación | Apasionado por crear, aprender y mejorar 🚀</h3>
+<h3 align="center">Desarrollador Web en formación | Apasionado por crear, aprender y mejorar 🚀</h3>
+
+<br>
+
+<p>
+  <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="300" alt="GIF animado"/>
+</p>
 
 ---
 
@@ -87,12 +93,6 @@ Cada día busco mejorar mis habilidades y construir proyectos reales que aporten
 </a>
 </p>
 
-  </div>
-
-
-  <div style="width: 40%; display: flex; justify-content: center; padding-top: 20px;">
-    <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" 
-         width="300" alt="GIF animado">
   </div>
 
 </div>
