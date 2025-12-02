@@ -3,34 +3,45 @@
 <h1 align="center">✨ Hola, soy <b>Ian Alfaro</b> 👋 ✨</h1>
 <h3 align="center">Desarrollador Web en formación | Apasionado por crear, aprender y mejorar 🚀</h3>
 
-<br>
+<hr>
 
-<p align="right">
-  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="300" alt="GIF animado">
-</p>
+<!-- SECCIÓN SOBRE MÍ + GIF EN FLEX -->
+<div style="display: flex; align-items: flex-start; justify-content: space-between;">
+
+  <!-- Texto -->
+  <div style="width: 55%;">
+    <h2>👨‍💻 Sobre mí</h2>
+    <p>
+      Soy un estudiante de Desarrollo Web con gran pasión por la tecnología y la programación.<br>
+      Activo, organizado y con excelente capacidad para trabajar en equipo y resolver problemas.<br>
+      Cada día busco mejorar mis habilidades y construir proyectos reales que aporten valor.
+    </p>
+
+    📩 <b>Correo:</b> ialfasa2020@gmail.com <br>
+    📍 Guatemala  
+  </div>
+
+  <!-- GIF -->
+  <div style="width: 40%; text-align: center;">
+    <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="300">
+  </div>
+
+</div>
 
 <hr>
 
-## 👨‍💻 Sobre mí
-
-Soy un estudiante de Desarrollo Web con gran pasión por la tecnología y la programación.  
-Activo, organizado y con excelente capacidad para trabajar en equipo y resolver problemas.  
-Cada día busco mejorar mis habilidades y construir proyectos reales que aporten valor.
-
-📩 **Correo:** ialfasa2020@gmail.com  
-📍 Guatemala  
-
-<hr>
-
+<!-- TODO LO QUE SIGUE CENTRADO -->
 <div align="center">
 
 ## ⭐ Mis gustos
 
-- ⚽ Jugar **fútbol**
-- 🎮 **Videojuegos**
-- 💪 **Calistenia**
-- 🧠 Aprender y mejorar en **programación**
-- 🎧 Escuchar música mientras programo
+<p style="list-style: none; padding: 0; margin: 0;">
+  <div>⚽ Jugar <b>fútbol</b></div>
+  <div>🎮 <b>Videojuegos</b></div>
+  <div>💪 <b>Calistenia</b></div>
+  <div>🧠 Aprender y mejorar en <b>programación</b></div>
+  <div>🎧 Escuchar música mientras programo</div>
+</p>
 
 <hr>
 
@@ -62,70 +73,19 @@ Cada día busco mejorar mis habilidades y construir proyectos reales que aporten
 ## 📈 Habilidades
 
 <table>
-  <tr>
-    <th>Habilidad</th>
-    <th>Nivel</th>
-  </tr>
-
-  <tr>
-    <td><img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" width="25"/> HTML</td>
-    <td>⭐⭐⭐⭐⭐</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="25"/> CSS</td>
-    <td>⭐⭐⭐⭐</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="25"/> JavaScript</td>
-    <td>⭐⭐⭐⭐</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="25"/> React</td>
-    <td>⭐⭐⭐⭐</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="25"/> Node.js</td>
-    <td>⭐⭐⭐⭐</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png" width="25"/> MySQL</td>
-    <td>⭐⭐⭐</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://images.icon-icons.com/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" width="25"/> MongoDB</td>
-    <td>⭐⭐⭐</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" width="25"/> Bootstrap</td>
-    <td>⭐⭐⭐⭐</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="25"/> Tailwind CSS</td>
-    <td>⭐⭐⭐⭐</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" width="25"/> Postman</td>
-    <td>⭐⭐⭐</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="25"/> Git & GitHub</td>
-    <td>⭐⭐⭐⭐</td>
-  </tr>
-
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="25"/> VS Code</td>
-    <td>⭐⭐⭐⭐</td>
-  </tr>
+  <tr><th>Habilidad</th><th>Nivel</th></tr>
+  <tr><td><img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" width="25"/> HTML</td><td>⭐⭐⭐⭐⭐</td></tr>
+  <tr><td><img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="25"/> CSS</td><td>⭐⭐⭐⭐</td></tr>
+  <tr><td><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="25"/> JavaScript</td><td>⭐⭐⭐⭐</td></tr>
+  <tr><td><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="25"/> React</td><td>⭐⭐⭐⭐</td></tr>
+  <tr><td><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="25"/> Node.js</td><td>⭐⭐⭐⭐</td></tr>
+  <tr><td><img src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png" width="25"/> MySQL</td><td>⭐⭐⭐</td></tr>
+  <tr><td><img src="https://images.icon-icons.com/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" width="25"/> MongoDB</td><td>⭐⭐⭐</td></tr>
+  <tr><td><img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" width="25"/> Bootstrap</td><td>⭐⭐⭐⭐</td></tr>
+  <tr><td><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="25"/> Tailwind CSS</td><td>⭐⭐⭐⭐</td></tr>
+  <tr><td><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" width="25"/> Postman</td><td>⭐⭐⭐</td></tr>
+  <tr><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="25"/> Git & GitHub</td><td>⭐⭐⭐⭐</td></tr>
+  <tr><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="25"/> VS Code</td><td>⭐⭐⭐⭐</td></tr>
 </table>
 
 <hr>
