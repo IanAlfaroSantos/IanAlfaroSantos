@@ -14,6 +14,7 @@
         Activo, organizado y con excelente capacidad para trabajar en equipo y resolver problemas.<br>
         Cada día busco mejorar mis habilidades y construir proyectos reales que aporten valor.
       </p>
+      <br>
     📩 <b>Correo:</b> ialfasa2020@gmail.com <br>
       📍 Guatemala
     </td>
