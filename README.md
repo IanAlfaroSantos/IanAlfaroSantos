@@ -5,25 +5,20 @@
 
 <hr>
 
-<!-- SECCIÓN SOBRE MÍ + GIF (TABLA PARA QUE FUNCIONE EN GITHUB) -->
 <table>
   <tr>
-    <!-- TEXTO -->
     <td style="width: 55%; vertical-align: top;">
-
       <h2>👨‍💻 Sobre mí</h2>
       <p>
         Soy un estudiante de Desarrollo Web con gran pasión por la tecnología y la programación.<br>
         Activo, organizado y con excelente capacidad para trabajar en equipo y resolver problemas.<br>
         Cada día busco mejorar mis habilidades y construir proyectos reales que aporten valor.
       </p>
-
-      📩 <b>Correo:</b> ialfasa2020@gmail.com <br>
+    📩 <b>Correo:</b> ialfasa2020@gmail.com <br>
       📍 Guatemala
     </td>
 
-    <!-- GIF -->
-    <td style="width: 45%; text-align: center;">
+  <td style="width: 45%; text-align: center;">
       <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="300">
     </td>
   </tr>
