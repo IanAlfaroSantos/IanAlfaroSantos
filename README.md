@@ -1,7 +1,7 @@
 <div style="display: flex; align-items: flex-start; justify-content: space-between; width: 100%;">
 
 <div style="width: 40%; text-align: left;">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="350px">
+  <img src="https://i.pinimg.com/originals/7f/61/28/7f61283ac576fa0b079f7878e6c16a3a.gif" width="350px">
 </div>
 
 <div style="width: 55%;">
