@@ -1,7 +1,7 @@
 <div style="display: flex; align-items: flex-start; justify-content: space-between; width: 100%;">
 <div style="width: 55%;">
 
-<h1>✨ Hola, soy <b>Ian Alfaro</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> ✨</h1>
+<h1>✨ Hola, soy <b>Ian Alfaro </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> ✨</h1>
 
 <h3>Desarrollador Web en formación | Apasionado por crear, aprender y mejorar 🚀</h3>
 
