@@ -5,7 +5,6 @@
 
 <br>
 
-<!-- GIF alineado a la derecha sin romper el diseño -->
 <p align="right">
   <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="300" alt="GIF animado">
 </p>
@@ -23,7 +22,6 @@ Cada día busco mejorar mis habilidades y construir proyectos reales que aporten
 
 <hr>
 
-<!-- TODO LO DE ABAJO QUEDA CENTRADO -->
 <div align="center">
 
 ## ⭐ Mis gustos
@@ -53,6 +51,7 @@ Cada día busco mejorar mis habilidades y construir proyectos reales que aporten
 <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" width="50"/>
 
 <br>
+
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
@@ -61,8 +60,6 @@ Cada día busco mejorar mis habilidades y construir proyectos reales que aporten
 <hr>
 
 ## 📈 Habilidades
-
-<div align="center">
 
 <table>
   <tr>
@@ -129,10 +126,9 @@ Cada día busco mejorar mis habilidades y construir proyectos reales que aporten
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="25"/> VS Code</td>
     <td>⭐⭐⭐⭐</td>
   </tr>
-
 </table>
 
-</div>
+<hr>
 
 ## 🔗 Redes Sociales
 
