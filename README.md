@@ -5,24 +5,29 @@
 
 <hr>
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between;">
+<!-- SECCIÓN SOBRE MÍ + GIF (TABLA PARA QUE FUNCIONE EN GITHUB) -->
+<table>
+  <tr>
+    <!-- TEXTO -->
+    <td style="width: 55%; vertical-align: top;">
 
-  <div style="width: 55%;">
-    <h2>👨‍💻 Sobre mí</h2>
-    <p>
-      Soy un estudiante de Desarrollo Web con gran pasión por la tecnología y la programación.<br>
-      Activo, organizado y con excelente capacidad para trabajar en equipo y resolver problemas.<br>
-      Cada día busco mejorar mis habilidades y construir proyectos reales que aporten valor.
-    </p>
-    📩 <b>Correo:</b> ialfasa2020@gmail.com <br>
-    📍 Guatemala
-  </div>
+      <h2>👨‍💻 Sobre mí</h2>
+      <p>
+        Soy un estudiante de Desarrollo Web con gran pasión por la tecnología y la programación.<br>
+        Activo, organizado y con excelente capacidad para trabajar en equipo y resolver problemas.<br>
+        Cada día busco mejorar mis habilidades y construir proyectos reales que aporten valor.
+      </p>
 
-  <div style="width: 40%; text-align: center;">
-    <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="300">
-  </div>
+      📩 <b>Correo:</b> ialfasa2020@gmail.com <br>
+      📍 Guatemala
+    </td>
 
-</div>
+    <!-- GIF -->
+    <td style="width: 45%; text-align: center;">
+      <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="300">
+    </td>
+  </tr>
+</table>
 
 <hr>
 
@@ -69,6 +74,7 @@
 
 <table>
   <tr><th>Habilidad</th><th>Nivel</th></tr>
+
   <tr><td><img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" width="25"/> HTML</td><td>⭐⭐⭐⭐⭐</td></tr>
   <tr><td><img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="25"/> CSS</td><td>⭐⭐⭐⭐</td></tr>
   <tr><td><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="25"/> JavaScript</td><td>⭐⭐⭐⭐</td></tr>
