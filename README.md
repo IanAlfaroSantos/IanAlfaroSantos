@@ -1,6 +1,9 @@
 <div style="display: flex; align-items: flex-start; justify-content: space-between; width: 100%;">
 
-<!-- LADO IZQUIERDO: INFO -->
+<div style="width: 40%; text-align: left;">
+  <img src="https://i.pinimg.com/originals/7f/61/28/7f61283ac576fa0b079f7878e6c16a3a.gif" width="350px">
+</div>
+
 <div style="width: 55%;">
 
 <h1>✨ Hola, soy <b>Ian Alfaro</b> ✨</h1>
@@ -32,25 +35,22 @@ Cada día busco mejorar mis habilidades y construir proyectos reales que aporten
 
 ## 🛠️ Tecnologías y Herramientas
 
-### 🔹 Frontend
-<img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" width="45"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="45"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="45"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="45"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="55"/>
-<img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" width="50"/>
-
-### 🔹 Backend & Bases de Datos
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="55"/>
-<img src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png" width="60"/>
-<img src="https://images.icon-icons.com/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" width="60"/>
-<img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" width="60"/>
-
-### 🔹 Herramientas
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
-<img src="https://code.visualstudio.com/assets/images/code-stable.png" width="50"/>
+<div>
+<img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" width="50" title="HTML"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="50" title="CSS"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" title="JavaScript"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" title="React"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="55" title="Tailwind CSS"/>
+<img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" width="50" title="Bootstrap"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="50" title="Node.js"/>
+<img src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png" width="50" title="MySQL"/>
+<img src="https://images.icon-icons.com/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" width="50" title="MongoDB"/>
+<img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" width="50" title="ExpressJS"/>
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" width="50" title="Postman"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" title="GitHub"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" title="VS Code"/>
+</div>
 
 ---
 
@@ -58,17 +58,18 @@ Cada día busco mejorar mis habilidades y construir proyectos reales que aporten
 
 | Habilidad | Nivel |
 |----------|--------|
-| HTML | ⭐⭐⭐⭐⭐ |
-| CSS | ⭐⭐⭐⭐ |
-| JavaScript | ⭐⭐⭐⭐ |
-| React | ⭐⭐⭐⭐ |
-| Node.js | ⭐⭐⭐⭐ |
-| MySQL | ⭐⭐⭐ |
-| MongoDB | ⭐⭐⭐ |
-| Git & GitHub | ⭐⭐⭐⭐ |
-| Bootstrap | ⭐⭐⭐⭐ |
-| Tailwind CSS | ⭐⭐⭐⭐ |
-| Postman | ⭐⭐⭐ |
+| HTML | <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" width="25"/> ⭐⭐⭐⭐⭐ |
+| CSS | <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="25"/> ⭐⭐⭐⭐ |
+| JavaScript | <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="25"/> ⭐⭐⭐⭐ |
+| React | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="25"/> ⭐⭐⭐⭐ |
+| Node.js | <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="25"/> ⭐⭐⭐⭐ |
+| MySQL | <img src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png" width="25"/> ⭐⭐⭐ |
+| MongoDB | <img src="https://images.icon-icons.com/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" width="25"/> ⭐⭐⭐ |
+| Bootstrap | <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" width="25"/> ⭐⭐⭐⭐ |
+| Tailwind CSS | <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="25"/> ⭐⭐⭐⭐ |
+| Postman | <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" width="25"/> ⭐⭐⭐ |
+| Git & GitHub | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="25"/> ⭐⭐⭐⭐ |
+| VS Code | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="25"/> ⭐⭐⭐⭐ |
 
 ---
 
@@ -87,14 +88,6 @@ Cada día busco mejorar mis habilidades y construir proyectos reales que aporten
 </p>
 
 </div>
-
-<!-- LADO DERECHO: GIF -->
-<div style="width: 40%; text-align: right;">
-  <img src="https://i.pinimg.com/originals/7f/61/28/7f61283ac576fa0b079f7878e6c16a3a.gif" width="350px">
 </div>
-
-</div>
-
----
 
 <h3 align="center">Gracias por visitar mi perfil 🙌</h3>
