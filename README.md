@@ -1,5 +1,7 @@
 <div style="display: flex; align-items: flex-start; justify-content: space-between; width: 100%;">
-<div style="width: 55%;">
+
+
+  <div style="width: 55%;">
 
 <h1>✨ Hola, soy <b>Ian Alfaro </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> ✨</h1>
 
@@ -85,7 +87,14 @@ Cada día busco mejorar mis habilidades y construir proyectos reales que aporten
 </a>
 </p>
 
-</div>
+  </div>
+
+
+  <div style="width: 40%; display: flex; justify-content: center; padding-top: 20px;">
+    <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" 
+         width="300" alt="GIF animado">
+  </div>
+
 </div>
 
 <h3 align="center">Gracias por visitar mi perfil 🙌</h3>
