@@ -71,17 +71,17 @@
 <table>
   <tr><th>Habilidad</th><th>Nivel</th></tr>
 
-  <tr><td><img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" width="25"/> HTML</td><td>⭐⭐⭐⭐⭐</td></tr>
+  <tr><td><img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" width="25"/> HTML</td><td>⭐⭐⭐⭐</td></tr>
   <tr><td><img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="25"/> CSS</td><td>⭐⭐⭐⭐</td></tr>
-  <tr><td><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="25"/> JavaScript</td><td>⭐⭐⭐⭐</td></tr>
-  <tr><td><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="25"/> React</td><td>⭐⭐⭐⭐</td></tr>
-  <tr><td><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="25"/> Node.js</td><td>⭐⭐⭐⭐</td></tr>
-  <tr><td><img src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png" width="25"/> MySQL</td><td>⭐⭐⭐</td></tr>
+  <tr><td><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="25"/> JavaScript</td><td>⭐⭐⭐</td></tr>
+  <tr><td><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="25"/> React</td><td>⭐⭐⭐</td></tr>
+  <tr><td><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="25"/> Node.js</td><td>⭐⭐⭐</td></tr>
+  <tr><td><img src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png" width="25"/> MySQL</td><td>⭐⭐</td></tr>
   <tr><td><img src="https://images.icon-icons.com/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" width="25"/> MongoDB</td><td>⭐⭐⭐</td></tr>
   <tr><td><img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" width="25"/> Bootstrap</td><td>⭐⭐⭐⭐</td></tr>
-  <tr><td><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="25"/> Tailwind CSS</td><td>⭐⭐⭐⭐</td></tr>
-  <tr><td><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" width="25"/> Postman</td><td>⭐⭐⭐</td></tr>
-  <tr><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="25"/> Git & GitHub</td><td>⭐⭐⭐⭐</td></tr>
+  <tr><td><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="25"/> Tailwind CSS</td><td>⭐⭐⭐</td></tr>
+  <tr><td><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" width="25"/> Postman</td><td>⭐⭐⭐⭐</td></tr>
+  <tr><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="25"/> Git & GitHub</td><td>⭐⭐⭐</td></tr>
   <tr><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="25"/> VS Code</td><td>⭐⭐⭐⭐</td></tr>
 </table>
 
